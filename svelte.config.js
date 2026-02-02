@@ -13,7 +13,7 @@ export default {
     }),
 
     paths: {
-      base: '/simquant'
+      base: '/quantum-sim'
     }
   }
 };
