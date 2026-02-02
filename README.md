@@ -16,7 +16,7 @@ Aviable gates:
  - H (Hadamard)
    1/(2)^(1/2) * [[1 1],[1 -1]]
 
-   Next steps:
-    - logic gates
-    - custom gates
-    - qubit visualisation
+Next steps:
+   - logic gates
+   - custom gates
+   - qubit visualisation
