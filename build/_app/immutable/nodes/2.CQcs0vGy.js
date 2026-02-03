@@ -1,0 +1,1 @@
+import{a as m,f as o}from"../chunks/BZ2oneec.js";import"../chunks/CCkSNVqp.js";var n=o('<main><h1 class="page-title svelte-1uha8ag">Quantum Simulator</h1></main>');function i(a){var t=n();m(a,t)}export{i as component};
