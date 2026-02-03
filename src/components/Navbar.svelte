@@ -1,15 +1,16 @@
 <script>
+  import { base } from '$app/paths';
 </script>
 
 <nav class="navbar">
   <div class="navbar-left">
-    <a href="/" class="navbar-title">Quantum Simulator</a>
+    <a href={base} class="navbar-title">Quantum Simulator</a>
   </div>
   <div class="navbar-right">
-    <a href="/actual_sim">
+    <a href={base + '/actual_sim'}>
       <button class="nav-button">Actual Sim</button>
     </a>
-    <a href="/docs">
+    <a href={base + '/docs'}>
       <button class="nav-button">Docs</button>
     </a>
   </div>
